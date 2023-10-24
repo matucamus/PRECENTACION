@@ -8,7 +8,7 @@
 ## Acerca de mí
 
 - 🎓 Graduado en Tecnicatura Programacon
-- 💼 Actualmente trabajando en [Nombre de la Empresa o Proyecto]
+- 💼 Actualmente trabajando en Universidad Tecnologica Nacional
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en [Lista de tus habilidades]
 
 ## Habilidades

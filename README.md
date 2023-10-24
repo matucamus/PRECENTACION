@@ -45,4 +45,7 @@ Inteligencia Artificial y Machine Learning: Me fascina explorar cómo la IA y el
 Tecnologías Emergentes: Estoy siempre atento a las últimas tendencias tecnológicas y me emociona experimentar con ellas.
 Open Source: Contribuir a proyectos de código abierto y participar en comunidades tecnológicas.
 Hackatones y Desafíos Técnicos: Me encanta enfrentar desafíos técnicos y participar en competencias de programación.
+
+
+
 ¡Gracias por visitar mi perfil de GitHub! Siéntete libre de contactarme si tienes alguna pregunta o oportunidad de colaboración.
